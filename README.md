@@ -2,8 +2,6 @@
 
 This repository contains my LeetCode practice solutions in Java, Python, and C.
 
-I use this repo to strengthen my understanding of data structures and algorithms, track my progress over time, and build consistency in technical interview preparation.
-
 ## Focus Areas
 - Arrays and strings
 - Hash maps and sets
